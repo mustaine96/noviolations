@@ -1,0 +1,6 @@
+projectKey=com.mycompany:noviolations
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=com.mycompany%3Anoviolations
+ceTaskId=AWkFVXgLQ52MDaHgZdqq
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWkFVXgLQ52MDaHgZdqq
